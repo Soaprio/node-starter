@@ -7,7 +7,6 @@
 $ npm install
 $ npm start
 ```
-```distract```
 
 ## Running on Runnable.io
 
